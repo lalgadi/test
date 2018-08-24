@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-badabing
-=======
-yes now its
->>>>>>> e3e1e4ee1cc41f8610fa8563af78f9e716eb3597
+badabing 2
